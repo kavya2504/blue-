@@ -1,0 +1,7 @@
+virt/
+
+
+migrations/
+
+db.sqllite/
+
